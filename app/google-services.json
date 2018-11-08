@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "173982199196",
+    "firebase_url": "https://fir-test-f9900.firebaseio.com",
+    "project_id": "fir-test-f9900",
+    "storage_bucket": "fir-test-f9900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173982199196:android:a1cb6c7bde11bdb2",
+        "android_client_info": {
+          "package_name": "com.example.sunsh.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173982199196-2antdop59u5v8se4231sj9c04ukck5gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBuEdMnfTPLjG3P-8mUa-jOSYOIt6LR8Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
