@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">firebase test</string>
+    <string name="mount">マウント</string>
+    <string name="rens_name">レンズ名</string>
+    <string name="wide_edge">ワイド端</string>
+    <string name="tele_edge">テレ端</string>
+    <string name="resist">登録</string>
+    <string name="change">変更</string>
+    <string name="price">金額</string>
+    <string name="resist_page">登録画面</string>
+</resources>
